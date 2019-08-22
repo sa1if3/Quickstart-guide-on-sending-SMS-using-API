@@ -251,3 +251,6 @@ if ($err) {
 
 }
 ```
+# MUST READ
+         -Sample JSON OUTPUT is provided in output folder.
+         -All API queries need to have X-Authorization Key; the value of the KEY is same as the API KEY.
