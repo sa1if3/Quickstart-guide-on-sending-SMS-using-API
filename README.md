@@ -1,6 +1,12 @@
 # Quickstart-guide-on-sending-SMS-using-API
 The following set of PHP files provides an basic example on how to use https://www.pingsms.in API
 
+# GET https://pingsms.in API KEY
+         -Sign Up in https://pingsms.in
+         -Get API Key from Developer API Tab
+         
+  ![API_KEY](https://github.com/sa1if3/auto-sms-wisher/blob/master/api-key.png)
+   
 # Product and Language Code
 ```php
          
