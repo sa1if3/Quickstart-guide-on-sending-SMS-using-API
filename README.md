@@ -1,6 +1,15 @@
 # Quickstart-guide-on-sending-SMS-using-API
 The following set of PHP files provides an basic example on how to use https://www.pingsms.in API
 
+# Product and Language Code
+```php
+         
+Language:   1 - English, 2 - Unicode (Regional Language)
+Product :   1 - Transactional, 2 - Promotional
+
+
+```
+
 # 1.Send Quick SMS
 
 ```php
