@@ -1,0 +1,9 @@
+{
+    "code": 201,
+    "status": "Success",
+    "message": "User balance details found",
+    "available_balance": {
+        "transactional_balance": 727,
+        "promotional_balance": 96
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "code": 201,
+    "status": "Success",
+    "message": "Sender ID list",
+    "sender_ids": [
+        {
+            "sender_id": "PNGSMS"
+        },
+        {
+            "sender_id": "PINGSM"
+        }
+    ]
+}
