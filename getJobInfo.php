@@ -1,7 +1,7 @@
 <?php
 
 $curl = curl_init();
-$apiKey="OO4oVJdaWzUiMofVzZ2ZrBOvEYJQOajHQ3TNfDTNejEGf3vbswKC0lia85LZ6Lqc"; 
+$apiKey=""; 
 $dateOfReport="2019-08-20"; //Date Of Report in YYYY-MM-DD Format
 $jobId="85157857";
 
